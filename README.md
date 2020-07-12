@@ -2,7 +2,7 @@
 
 My name is Melissa and I am a Javascript student at Claim Academy in St. Louis, Missouri. Javascript is my first coding language.
 
-Find my blog [here](https://dev.to/ldrmuse)
+Find my blog [here](https://dev.to/ldrmuse).
 
 <!--
 **LDRMuse/LDRMuse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
