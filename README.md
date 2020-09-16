@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Melissa and I am a Javascript student at Claim Academy in St. Louis, Missouri. Javascript is my first coding language.
+My name is Melissa and I am a recent Bootcamp graduate from Claim Academy in St. Louis, Missouri. JavaScript was my language of choice and my next step in the Web development world is to master my kraft. 
 
 Find my blog [here](https://dev.to/ldrmuse).
 
