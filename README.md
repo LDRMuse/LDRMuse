@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hello! 👋
 
-My name is Melissa and I am a recent Bootcamp graduate from Claim Academy in St. Louis, Missouri. JavaScript was my language of choice and my next step in the Web development world is to master my kraft. 
+My name is Melissa!
 
 Find my blog [here](https://dev.to/ldrmuse).
 
@@ -9,8 +9,8 @@ Find my blog [here](https://dev.to/ldrmuse).
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on Many projects
+- 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
