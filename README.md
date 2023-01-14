@@ -1,6 +1,15 @@
 ### Hello! 👋
 
-My name is Melissa!
+My name is Melissa and it seems I am a jack of many unrelated trades. I love learning things that interest me.
+Beacuse of this I am/have:
+
+JavaScript BootCamp Graduate (2020)
+Self taught in Java (2021/2023)
+Orthodontic Assistanting (2013)
+Licensed in Cosmetology (2013)
+Certified in Microblading (2018)
+Certified in Lash Extentions (2019)
+Certified in Organic Balloon Designs (2023)
 
 
 <!--
