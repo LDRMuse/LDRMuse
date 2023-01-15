@@ -1,7 +1,7 @@
-### Hi! :sunny:
+# Hi! :sunny:
 
-My name is **Melissa** and it seems I am a jack of *many* unrelated trades. 
-I love learning things that interest me :sparkling_heart: Because of this I am/have:
+## My name is **Melissa** and it seems I am a jack of *many* unrelated trades. 
+### I love learning things that interest me :sparkling_heart: Because of this I am/have:
 
           * JavaScript BootCamp Graduate 
           * Self Taught in Java 
