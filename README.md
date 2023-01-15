@@ -4,7 +4,7 @@ My name is **Melissa** and it seems I am a jack of *many unrelated trades*.
 I love learning things that interest me :sparkling_heart: Because of this I am/have:
 
 
- Markup : * JavaScript BootCamp Graduate (2020)
+          * JavaScript BootCamp Graduate (2020)
           * Self taught in Java (2021/2023)
           * Orthodontic Assistanting (2013)
           * Licensed in Cosmetology (2013)
