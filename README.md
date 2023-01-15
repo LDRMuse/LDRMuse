@@ -1,18 +1,17 @@
-### Hello! 👋
+### Hi! :sunny:
 
-My name is **Melissa** and it seems I am a jack of *many unrelated trades*. 
+My name is **Melissa** and it seems I am a jack of *many* unrelated trades. 
 I love learning things that interest me :sparkling_heart: Because of this I am/have:
 
+          * JavaScript BootCamp Graduate 
+          * Self Taught in Java 
+          * Orthodontic Assistant 
+          * Licensed in Cosmetology 
+          * Certified in Microblading 
+          * Certified in Lash Extentions 
+          * Certified in Organic Balloon Designs 
 
-          * JavaScript BootCamp Graduate (2020)
-          * Self taught in Java (2021/2023)
-          * Orthodontic Assistanting (2013)
-          * Licensed in Cosmetology (2013)
-          * Certified in Microblading (2018)
-          * Certified in Lash Extentions (2019)
-          * Certified in Organic Balloon Designs (2023)
-
-
+Life is just a game and I'm having so much fun experiencing each level :page_facing_up::coffee::smiley::haircut::nail_care::heart_eyes_cat::balloon:
 
 <!--
 **LDRMuse/LDRMuse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
