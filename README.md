@@ -4,12 +4,14 @@
 ### I love learning things that interest me :sparkling_heart: Because of this I am/have:
 
           * JavaScript BootCamp Graduate 
-          * Self Taught in Java 
+          * Self Taught in Java
+          * Angular & TypeScript
+          * Spring and Hibernate
           * Orthodontic Assistant 
           * Licensed in Cosmetology 
           * Certified in Microblading 
           * Certified in Lash Extentions 
-          * Certified in Organic Balloon Designs 
+          * Trained in Organic Balloon Designs 
 
 Life is just a game and I'm having so much fun experiencing each level :page_facing_up::coffee::smiley::haircut::nail_care::heart_eyes_cat::balloon:
 
