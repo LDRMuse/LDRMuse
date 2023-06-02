@@ -1,19 +1,8 @@
-# Hi! :sunny:
+# Hi, I'm Melissa! :sunny: 
 
-## My name is **Melissa** and it seems I am a jack of *many* unrelated trades. 
-### I love learning things that interest me :sparkling_heart: Because of this I am/have:
+About me: 3/5 Heretic Martyr (google it :cupid:)
 
-          * JavaScript BootCamp Graduate 
-          * Self Taught in Java
-          * Angular & TypeScript
-          * Spring and Hibernate
-          * Orthodontic Assistant 
-          * Licensed in Cosmetology 
-          * Certified in Microblading 
-          * Certified in Lash Extentions 
-          * Trained in Organic Balloon Designs 
-
-Life is just a game and I'm having so much fun experiencing each level :page_facing_up::coffee::smiley::haircut::nail_care::heart_eyes_cat::balloon:
+## Have a great day!
 
 <!--
 **LDRMuse/LDRMuse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
